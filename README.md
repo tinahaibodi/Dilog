@@ -22,6 +22,6 @@ We learned a lot, not only about API's and Google Cloud Platform, but about ours
 ## What's next for DiLog
 We plan to keep working on it and add new features such as user profiles, recording lectures and saving them to your phone, playback services, improve diction and other features that include data.
 
-![alt text](https://raw.githubusercontent.com/tinahaibodi/DiLog/master/readme.md/to/CoverPage.png)
+![Cover Page](https://raw.githubusercontent.com/tinahaibodi/DiLog/master/readme.md/CoverPage.png)
 
 
