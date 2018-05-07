@@ -22,8 +22,7 @@ We learned a lot, not only about API's and Google Cloud Platform, but about ours
 ## What's next for DiLog
 We plan to keep working on it and add new features such as user profiles, recording lectures and saving them to your phone, playback services, improve diction and other features that include data.
 
-![Cover Page](https://raw.githubusercontent.com/tinahaibodi/DiLog/master/readme.md/CoverPage.png)
-
 <a href="http://tinypic.com?ref=wlyqko" target="_blank"><img src="http://i64.tinypic.com/wlyqko.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
+<a href="http://tinypic.com?ref=1692rg4" target="_blank"><img src="http://i64.tinypic.com/1692rg4.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
