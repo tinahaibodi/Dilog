@@ -24,5 +24,7 @@ We plan to keep working on it and add new features such as user profiles, record
 
 <a href="http://tinypic.com?ref=wlyqko" target="_blank"><img src="http://i64.tinypic.com/wlyqko.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
-<a href="http://tinypic.com?ref=1692rg4" target="_blank"><img src="http://i64.tinypic.com/1692rg4.png" border="0" alt="Image and video hosting by TinyPic"></a>
+<p><a href="http://tinypic.com?ref=1692rg4" target="_blank"><img src="http://i64.tinypic.com/1692rg4.png" border="0" alt="Image and video hosting by TinyPic"></a>
+  
+<p><a href="http://tinypic.com?ref=vq2ot3" target="_blank"><img src="http://i65.tinypic.com/vq2ot3.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
