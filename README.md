@@ -24,4 +24,6 @@ We plan to keep working on it and add new features such as user profiles, record
 
 ![Cover Page](https://raw.githubusercontent.com/tinahaibodi/DiLog/master/readme.md/CoverPage.png)
 
+<a href="http://tinypic.com?ref=wlyqko" target="_blank"><img src="http://i64.tinypic.com/wlyqko.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
 
