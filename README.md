@@ -28,3 +28,4 @@ We plan to keep working on it and add new features such as user profiles, record
   
 <p><a href="http://tinypic.com?ref=vq2ot3" target="_blank"><img src="http://i65.tinypic.com/vq2ot3.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
+<p><a href="http://tinypic.com?ref=242vgcy" target="_blank"><img src="http://i63.tinypic.com/242vgcy.jpg" border="0" alt="Image and video hosting by TinyPic"></a></p>
